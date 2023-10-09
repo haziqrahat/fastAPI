@@ -1,3 +1,3 @@
 # fastAPI
 
-Creating my very first FastAPI
+Creating my very first RESTful API using  FastAPI
